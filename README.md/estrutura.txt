@@ -1,0 +1,17 @@
+meu_projeto/
+│
+├── src/             # Códigos-fonte (.c)
+│   ├── main.c
+│   ├── menu.c
+│   └── util.c
+│
+├── include/         # Arquivos de cabeçalho (.h)
+│   ├── menu.h
+│   └── util.h
+│
+├── build/           # Saída da compilação (binários/executáveis)
+│
+├── data/            # Arquivos de entrada/saída, se houver
+│
+├── Makefile         # Opcional: automatiza a compilação
+└── README.md        # Informações sobre o projeto

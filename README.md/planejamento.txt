@@ -1,0 +1,16 @@
+Algoritimos e estrutura de dados
+1. Realizar a lista de exercicios.
+2. Realizar uma pesquisa no formato "ABNT"
+P1 -    Arrays, funcções, alocação dinâmica, ponteiros e struct
+P2 -    lista encadeada, pilha, fila.
+P3 -    Árvore binária de busca (BST), Algoritimo de ordenação (tabela hash) (bubble sort, insertion sort).
+P4 -	tabela hash com encadeamento, busca linear, busca binária;
+
+Exemplos de codigo em codigo
+entrega em pdf
+padrão ABNT
+
+capa
+sumario
+conteudo
+referencias
